@@ -1,0 +1,5 @@
+{
+  "name": "Crono CAT",
+  "description": "Automated scheduling tool for call centers using historical data, skill constraints, and AI-powered analysis.",
+  "requestFramePermissions": []
+}
